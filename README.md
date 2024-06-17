@@ -1,6 +1,6 @@
-# LLM Integration with ECG Models
+# Retreival augumented generation (RAG) with PMC-Llama model
 
-This repository contains code for integrating Large Language Models (LLMs) with ECG models for analyzing ECG data and generating relevant medical information. The system involves loading ECG data, processing it with text splitting techniques, embedding the data, and utilizing a LLM for generating answers based on user queries.
+This repository contains code for integrating Large Language Models (LLM) named PMC-Llama with RAG for analyzing ECG data and generating relevant medical information. The system involves loading ECG data, processing it with text splitting techniques, embedding the data, and utilizing a LLM for generating answers based on user queries.
 
 ## Prerequisites
 
