@@ -2,7 +2,7 @@
 
 This repository contains code for integrating Large Language Models (LLM) named PMC-Llama with RAG for analyzing ECG data and generating relevant medical information. The system involves loading ECG data, processing it with text splitting techniques, embedding the data, and utilizing a LLM for generating answers based on user queries.
 
-![PMC-RAG](./images/pmc-rag.png)
+![PMC-RAG](./home/sirapop/Documents/Anomaly_detection_Integrated_PrivateGPT/Retrieval-Augmented-Generation-RAG-with-PMC-Llama-Model-For-Medical-Application--main/pmc-rag.png)
 
 ## Prerequisites
 
